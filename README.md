@@ -1,12 +1,12 @@
 ### Hi there 👋
 <br>
 
-<img src="https://img.shields.io/badge/docker-blue?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-blue?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/sas-blue?style=flat-square&logo=sas&logoColor=white"/>
-<img src="https://img.shields.io/badge/mlflow-blue?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/grafana-blue?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAS-blue?style=flat-square&logo=sas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-blue?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-blue?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-blue?style=flat-square&logo=nginx&logoColor=white"/>
 
 
