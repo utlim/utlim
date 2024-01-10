@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-<img src="https://img.shields.io/badge/SAS-blue?style=flat-square&logo=data:image/svg+xml;base64,aHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy8xLzEwL1NBU19sb2dvX2hvcml6LnN2Zw==&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAS-blue?style=flat-square&logo=data:image/svg+xml,https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white"/>
