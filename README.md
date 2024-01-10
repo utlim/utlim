@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/sas-blue?style=flat-square&logo=sas&logoColor=white"/>
 <img src="https://img.shields.io/badge/mlflow-blue?style=flat-square&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/grafana-blue?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/clickhouse-blue?style=flat-square&logo=clickhouse&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-blue?style=flat-square&logo=nginx&logoColor=white"/>
 
 
 <!--
