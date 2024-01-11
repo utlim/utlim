@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
-<table board=0>
+<table>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
