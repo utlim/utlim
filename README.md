@@ -15,12 +15,13 @@
     </td>
     <td>
       
-![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
+[utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
     </td>
   </tr>
 </table>
 
 
+[shadow_green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=utlim&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
