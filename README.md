@@ -21,7 +21,7 @@
 </table>
 
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=utlim&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green)
+![status](https://github-readme-stats.vercel.app/api/pin/?username=utlim&repo=github-readme-stats&cache_seconds=86400&theme=shadow_green)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
