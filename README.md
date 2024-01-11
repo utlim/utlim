@@ -15,8 +15,7 @@
     </td>
     <td>
       
-      ![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
-      
+![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
     </td>
   </tr>
 </table>
