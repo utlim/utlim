@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br/>
-<table>
+<table board=0>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
@@ -20,7 +20,6 @@
   </tr>
 </table>
 
-![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
 
 
 <!--START_SECTION:badges-->
