@@ -8,10 +8,6 @@
 <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
-<img src=""/>
-<img src=""/>
-
-
 <img src="https://img.shields.io/badge/SAS-blue?logo=">
 
 <!--START_SECTION:badges-->
