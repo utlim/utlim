@@ -14,12 +14,14 @@
       <img src="https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo=">
     </td>
     <td>
+      
       ![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
+      
     </td>
   </tr>
 </table>
 
-
+![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
 
 
 <!--START_SECTION:badges-->
