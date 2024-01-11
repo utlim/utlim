@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo=">
 
+![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=dark&show_icons=true)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
