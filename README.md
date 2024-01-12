@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=utlim_github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=utlim-github)
 
 ### Hi there 👋
 <!--
