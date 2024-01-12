@@ -5,10 +5,6 @@
 https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
 https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white
 -->
-<br/>
-<table>
-  <tr>
-    <td>
       <img src="https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo=">
       <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -18,18 +14,10 @@ https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoC
       <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
       <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
       <img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
-    </td>
-    <td>
       
 ![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=shadow_green&show_icons=true)
-    </td>
-  </tr>
-  <tr>
-    <td>
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=utlim&repo=utlim&cache_seconds=86400&theme=shadow_green)
-    </td>
-    <td>
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
@@ -38,17 +26,6 @@ https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoC
 <a href="https://www.instagram.com/ut.im_kendor/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futlim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
