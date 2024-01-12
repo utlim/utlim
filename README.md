@@ -1,16 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=utlim-github&animation=fadeIn&fontSize=40&fontAlignY=40&rotate=-5)
 
 ### Hi there 👋
+<p align="center">
+<img src="https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo="> &nbsp
+<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/> &nbsp
+</p>
 
-<img src="https://img.shields.io/badge/SAS-blue?style=for-the-badge&logo="><img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=MLflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white"/>
-      
 ![utlim's GitHub stats](https://github-readme-stats.vercel.app/api?username=utlim&theme=shadow_green&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=utlim&repo=utlim&cache_seconds=86400&theme=shadow_green)
