@@ -38,7 +38,6 @@ https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoC
 <a href="https://www.instagram.com/ut.im_kendor/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Futlim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
     </td>
   </tr>
 </table>
